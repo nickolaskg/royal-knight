@@ -1,0 +1,22 @@
+{
+  "name": "royal-knight",
+  "displayName": "Royal Knight",
+  "description": "Royal Knight Theme",
+  "publisher": "nickolaskg",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Royal Knight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Royal Knight-color-theme.json"
+      }
+    ]
+  }
+}
