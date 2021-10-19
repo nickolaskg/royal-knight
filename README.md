@@ -1,5 +1,3 @@
-# README
+# Royal Knight Theme for VS Code
 
-## This is the README for the VS Code extension "royal-knight"
-
-**Enjoy!**
+**A Dark Themed Blue and Gold Theme For VS Code**
